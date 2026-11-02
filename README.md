@@ -1,131 +1,161 @@
-<!-- ========================= HERO ========================= -->
+<!-- ============================== HERO ============================== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1D4ED8,100:38BDF8&height=190&section=header&text=Anindya%20Sarkar&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Curious%20mind.%20Builder%20at%20heart.&descAlignY=61&descSize=18" alt="Anindya Sarkar — Curious mind. Builder at heart." />
-</div>
-
-<table align="center" border="0">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:070B18,35:142D5E,70:176B87,100:38BDF8&text=ANINDYA%20SARKAR&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=BUILDING%20%7C%20LEARNING%20%7C%20CONTRIBUTING&descSize=16&descAlignY=62&animation=fadeIn" alt="Anindya Sarkar — building, learning and contributing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=820&lines=Full-Stack+Developer+in+Progress;Open-Source+Contributor;Building+Useful+Digital+Products;Technology+%2B+Leadership+%2B+Growth;Learning+in+Public%2C+One+Commit+at+a+Time" alt="Animated introduction" />
+</div><p align="center">
+  <a href="#about"><img src="https://img.shields.io/badge/ABOUT-ME-172554?style=for-the-badge&labelColor=0B1220" alt="About me" /></a>
+  <a href="#toolbox"><img src="https://img.shields.io/badge/TOOLBOX-TECH-075985?style=for-the-badge&labelColor=0B1220" alt="Toolbox" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-BUILD-0369A1?style=for-the-badge&labelColor=0B1220" alt="Projects" /></a>
+  <a href="#analytics"><img src="https://img.shields.io/badge/ANALYTICS-ACTIVITY-1D4ED8?style=for-the-badge&labelColor=0B1220" alt="Analytics" /></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/CONNECT-LET'S_TALK-0E7490?style=for-the-badge&labelColor=0B1220" alt="Connect" /></a>
+</p><!-- ============================== INTRO ============================== -->
+<a id="about"></a>
+<table width="100%" cellspacing="0" cellpadding="12">
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="https://github.com/anindya2007.png?size=400" width="190" alt="Anindya Sarkar's GitHub profile picture" />
+      <img src="https://github.com/anindya2007.png?size=420" width="210" alt="Anindya Sarkar's GitHub profile picture" />
       <br /><br />
-      <a href="https://github.com/anindya2007?tab=followers">
-        <img src="https://img.shields.io/github/followers/anindya2007?style=for-the-badge&logo=github&label=FOLLOWERS&color=1D4ED8" alt="GitHub followers" />
-      </a>
+      <img src="https://komarev.com/ghpvc/?username=anindya2007&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
+      <br /><br />
+      <img src="https://img.shields.io/github/followers/anindya2007?style=for-the-badge&logo=github&label=FOLLOWERS&color=0E7490" alt="GitHub followers" />
     </td>
     <td width="70%" valign="middle">
-      <h2>Hey, I'm Anindya 👋</h2>
-      <a href="https://readme-typing-svg.demolab.com">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&vCenter=true&width=600&lines=2nd-year+CS+student;Exploring+full-stack+development;Open-source+contributor;Building+products+and+communities;Tech+%2B+Leadership+%2B+Growth" alt="Animated introduction" />
-      </a>
+      <h2>Hey, I'm Anindya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand" /></h2>
+      <h3>Tech <code>×</code> Product <code>×</code> People</h3>
       <p>
-        A second-year student at <b>Newton School of Technology × Rishihood University</b>, exploring full-stack development and contributing to open source. I enjoy building useful products and bringing people together through leadership, outreach, community building, and operations.
+        I'm a second-year student at <b>Newton School of Technology × Rishihood University</b>, exploring full-stack development and building useful digital products. I'm learning across the frontend, backend, and database stack while contributing to open source and learning in public.
       </p>
       <p>
-        <a href="mailto:anindya2007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact%20me-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Anindya" /></a>
-        <a href="https://github.com/anindya2007?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-All%20repositories-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+        Beyond code, I bring experience in <b>leadership, outreach, community building, and operations</b>. I enjoy taking ownership, collaborating with people, and turning ideas into practical outcomes.
+      </p>
+      <p>
+        <b>Currently exploring:</b> TypeScript, Node.js, MongoDB, backend engineering, and product development.
+      </p>
+      <p>
+        <a href="mailto:anindya2007@gmail.com">✉️ Email</a> &nbsp;·&nbsp;
+        <a href="https://github.com/anindya2007?tab=repositories">⌘ All repositories</a> &nbsp;·&nbsp;
+        <a href="https://github.com/anindya2007?tab=overview">Contribution overview</a>
       </p>
     </td>
   </tr>
-</table>
-
+</table><p align="center">
+  <img src="https://img.shields.io/badge/OPEN_TO-COLLABORATIONS-0EA5E9?style=for-the-badge" alt="Open to collaborations" />
+  <img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20%26%20OPEN%20SOURCE-1D4ED8?style=for-the-badge" alt="Focus: full-stack and open source" />
+  <img src="https://img.shields.io/badge/BEYOND_CODE-LEADERSHIP%20%26%20OPERATIONS-0F766E?style=for-the-badge" alt="Leadership and operations" />
+</p>✦ More than code · The person behind the commits
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anindya2007&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations-38BDF8?style=for-the-badge" alt="Open to collaborations" />
-</p>
-
----
-
-## `whoami` · A little about me
-
-- 🎓 **Currently:** Second-year student at Newton School of Technology × Rishihood University.
-- 🌱 **Learning:** TypeScript, Node.js, MongoDB, and full-stack development.
-- 🧑‍💻 **Building:** Web applications and practical products while exploring backend and database engineering.
-- 🌍 **Open source:** Contributing, collaborating, and learning in public.
-- 🤝 **Beyond code:** Leadership, outreach, community building, and operations.
-- 💼 **Open to:** Open-source collaborations and freelance opportunities in web development, outreach, and operations.
-- 📫 **Reach me:** [anindya2007@gmail.com](mailto:anindya2007@gmail.com)
-- ⚡ **Fun fact:** Making something is more fun to me than just learning about it.
-
----
-
-## `connect` · Find me around the web
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Curiosity+starts+the+work.;Code+turns+ideas+into+something+real.;People+and+collaboration+make+it+matter." alt="Animated personal motto" />
+</p><table width="100%" cellspacing="0" cellpadding="14">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>⚙️ 01 · BUILD</h3>
+      <p><b>From idea to implementation</b></p>
+      <p>Exploring frontend, backend, and databases to build practical web applications and useful digital products.</p>
+      <p><code>DESIGN</code> → <code>DEVELOP</code> → <code>ITERATE</code></p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🌍 02 · CONTRIBUTE</h3>
+      <p><b>Learning in the open</b></p>
+      <p>Contributing to open source, collaborating with developers, and improving through feedback and real-world practice.</p>
+      <p><code>EXPLORE</code> → <code>SHARE</code> → <code>IMPROVE</code></p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🤝 03 · LEAD</h3>
+      <p><b>Making things happen with people</b></p>
+      <p>Bringing experience in leadership, outreach, community building, coordination, and operations beyond the code.</p>
+      <p><code>CONNECT</code> → <code>ORGANIZE</code> → <code>EXECUTE</code></p>
+    </td>
+  </tr>
+</table><p align="center">
+  <img src="https://img.shields.io/badge/MINDSET-CURIOUS-0EA5E9?style=for-the-badge&labelColor=0B1220" alt="Curious mindset" />
+  <img src="https://img.shields.io/badge/APPROACH-HANDS--ON-2563EB?style=for-the-badge&labelColor=0B1220" alt="Hands-on approach" />
+  <img src="https://img.shields.io/badge/FOCUS-PEOPLE%20%2B%20PRODUCT-0F766E?style=for-the-badge&labelColor=0B1220" alt="People and product focus" />
+</p><a id="toolbox"></a>
+🧰 The toolbox · Technologies in my stack
+<p align="center"><i>Different tools for different problems — these are the technologies I'm learning, using, and exploring.</i></p><table width="100%" cellspacing="0" cellpadding="12">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 Frontend · Interfaces</h3>
+      <p>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 documentation" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 documentation" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript documentation" /></a>
+        <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript documentation" /></a>
+        <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React documentation" /></a>
+        <a href="https://tailwindcss.com/docs"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS documentation" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Backend · Data</h3>
+      <p>
+        <a href="https://nodejs.org/docs/latest/api/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js documentation" /></a>
+        <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express documentation" /></a>
+        <a href="https://www.mongodb.com/docs/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB documentation" /></a>
+        <a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL documentation" /></a>
+        <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL documentation" /></a>
+        <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python documentation" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <h3>🔧 Workflow · Collaboration</h3>
+      <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git documentation" /></a>
+      <a href="https://docs.github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub documentation" /></a>
+    </td>
+  </tr>
+</table><p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2000&pause=650&color=38BDF8&center=true&vCenter=true&width=680&lines=Learn+the+tool.;Understand+the+problem.;Build+something+useful." alt="Animated toolbox motto" /></p><a id="projects"></a>
+🚀 The build lab · Ideas, experiments & shipped work
 <p align="center">
-  <a href="https://linkedin.com/in/anindya-sarkar2007"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/ani03610"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://codeforces.com/profile/anindya282"><img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://www.leetcode.com/ani2007"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-</p>
-
----
-
-## `toolbox` · Technologies I'm exploring
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2100&pause=650&color=38BDF8&center=true&vCenter=true&width=800&lines=Not+just+repositories.+A+trail+of+experiments.;Small+builds.+Bigger+lessons.;Browse+the+code%2C+follow+the+progress." alt="Animated project showcase introduction" />
+</p><p align="center">
+  <a href="https://github.com/anindya2007?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL_PUBLIC_REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore all public repositories" /></a>
+  <a href="https://github.com/anindya2007?tab=overview"><img src="https://img.shields.io/badge/FOLLOW-MY_CONTRIBUTION_TRAIL-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Follow my contribution trail" /></a>
+</p><p align="center"><i>Every repository captures a problem explored, a skill sharpened, or an idea brought a little closer to reality.</i></p>✨ Project spotlight · Recently active original work
+<p align="center"><sub>Selected automatically from original public repositories, prioritising recent activity. Select a project card to open its source repository.</sub></p><!-- FEATURED_REPOSITORIES_START -->
+<p align="center"><i>Your project spotlight will appear here after the <b>Update repository catalog</b> workflow runs.</i></p>
+<!-- FEATURED_REPOSITORIES_END -->🗂️ The repository wall · Everything I've made public
+<p align="center"><sub>Browse the full collection — original projects, experiments, learning repositories, and public forks. Each visual card links directly to its repository.</sub></p><!-- ALL_REPOSITORIES_START -->
+<p align="center"><i>Your repository wall will populate automatically after the first catalog workflow run.</i></p>
+<!-- ALL_REPOSITORIES_END --><p align="center">
+  <a href="https://github.com/anindya2007?tab=repositories"><img src="https://img.shields.io/badge/THERE'S_MORE-OPEN_MY_GITHUB-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Open all repositories on GitHub" /></a>
+</p><p align="center"><sub>Repository visuals refresh daily through GitHub Actions. Images are linked to their repository pages — not to the raw image file.</sub></p><a id="analytics"></a>
+📊 The activity lab · Stats, languages & contributions
+<p align="center"><b>Progress is more than a number — here's the work behind it.</b></p>🌊 Contribution timeline
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,mysql,postgres,python,git&perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Node.js, Express, MongoDB, MySQL, PostgreSQL, Python, and Git" />
-</p>
-
----
-
-## `projects` · Things I've been building
-
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anindya2007&theme=github_dark&animation=sequence&duration=4" alt="Animated GitHub contribution timeline and profile details" />
+</p>⚡ GitHub snapshot
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anindya2007&theme=github_dark&animation=load&duration=3" alt="Animated GitHub statistics" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anindya2007&theme=github_dark&animation=draw&duration=4" alt="Animated language distribution by repository" />
+    </td>
+  </tr>
+</table>🔥 Consistency · Contribution streak
 <p align="center">
-  <a href="https://github.com/anindya2007?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-Explore%20my%20GitHub-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="View all projects and repositories" />
-  </a>
-</p>
-
-### Recently updated projects
-
-<!-- FEATURED_REPOSITORIES_START -->
-_This section is populated automatically by the repository-catalog GitHub Action._
-<!-- FEATURED_REPOSITORIES_END -->
-
-### All public repositories
-
-<!-- ALL_REPOSITORIES_START -->
-_The complete public repository list will appear here after you run the **Update repository catalog** workflow once._
-<!-- ALL_REPOSITORIES_END -->
-
----
-
-## `github analytics` · Stats, streaks & contributions
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anindya2007&theme=github_dark" alt="GitHub profile contribution summary" />
-</p>
-
-<div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anindya2007&theme=github_dark" alt="GitHub statistics" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anindya2007&theme=github_dark" alt="Most used languages by repository" />
-</div>
-
-<p align="center">
-  <img width="72%" src="https://streak-stats.demolab.com?user=anindya2007&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=anindya2007&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=anindya2007&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies and achievements" />
-</p>
-
-### Contribution snake
-
+  <img width="88%" src="https://streak-stats.demolab.com?user=anindya2007&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Current and longest GitHub contribution streak" />
+</p>🐍 Watch the contributions come alive
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anindya2007/anindya2007/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anindya2007/anindya2007/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated contribution graph snake" src="https://raw.githubusercontent.com/anindya2007/anindya2007/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="Animated contribution snake generated from my GitHub activity" src="https://raw.githubusercontent.com/anindya2007/anindya2007/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
----
-
-<div align="center">
+</p><p align="center">
+  <a href="https://github.com/anindya2007?tab=overview">Open my full GitHub contribution history →</a>
+</p><a id="connect"></a>
+🤝 Let's build something together
+<p align="center">
+  <a href="https://linkedin.com/in/anindya-sarkar2007"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://instagram.com/ani03610"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" /></a>
+  <a href="https://codeforces.com/profile/anindya282"><img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile" /></a>
+  <a href="https://leetcode.com/ani2007"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" /></a>
+  <a href="mailto:anindya2007@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Anindya" /></a>
+</p><div align="center">
   <h3>“Build. Learn. Contribute. Repeat.”</h3>
-  <p>Thanks for stopping by — explore my repositories, check out what I'm building, and let's connect!</p>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,55:1D4ED8,100:0D1117&height=110&section=footer" alt="Animated blue footer wave" />
+  <p>Thanks for exploring my corner of GitHub. Scroll through the projects, follow the contribution trail, and let's connect.</p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:38BDF8,45:176B87,100:070B18" alt="Animated blue footer wave" />
 </div>

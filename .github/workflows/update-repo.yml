@@ -25,7 +25,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
-        run: node scripts/update-repository-catalog.js
+        run: node scripts/update-repositories.js
 
       - name: Commit and push changes
         run: |

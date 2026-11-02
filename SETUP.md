@@ -1,63 +1,38 @@
-# GitHub Profile Automation Setup
+# Anindya's GitHub Profile — Immersive README
 
-This package contains the two GitHub Actions workflows and the JavaScript script used by the profile README.
-
-## Required repository structure
+## Repository structure
 
 ```text
 anindya2007/
 ├── README.md
+├── SETUP.md
 ├── .github/
 │   └── workflows/
-│       ├── contribution-snake.yml
-│       └── update-repo.yml
+│       ├── update-repo.yml
+│       └── contribution-snake.yml
 └── scripts/
     └── update-repositories.js
 ```
 
-Keep `README.md` in the root of the special profile repository named `anindya2007`.
+## Install
 
-## 1. Repository catalogue workflow
+1. Replace the current profile repository's `README.md` with this package's `README.md`.
+2. Copy `.github/` and `scripts/` into the root of the profile repository. Merge with existing folders; do not create nested `.github/.github` or `scripts/scripts` folders.
+3. Commit and push all files to the repository's default branch.
+4. In **Settings → Actions → General → Workflow permissions**, allow **Read and write permissions**.
+5. Open **Actions** and run **Update repository catalog** and **Generate contribution snake** manually once.
 
-The `update-repo.yml` workflow fetches the public repositories owned by `anindya2007`, then updates the two marked sections in `README.md`:
+Both workflows use the repository's built-in `GITHUB_TOKEN`; no personal access token is required.
 
-- `FEATURED_REPOSITORIES_START` / `FEATURED_REPOSITORIES_END`
-- `ALL_REPOSITORIES_START` / `ALL_REPOSITORIES_END`
+## What updates automatically
 
-It runs daily and can also be started manually from **Actions → Update repository catalog → Run workflow**.
+- `update-repo.yml` runs daily and populates the project spotlight and the complete repository wall for public repositories owned by `anindya2007`. Each repository preview image is wrapped in a link to that repository, so clicking a card opens the source repository instead of the raw image. Forks appear in the full wall and are marked separately; they are excluded from the original-project spotlight.
+- `contribution-snake.yml` runs daily and publishes light/dark contribution snake SVGs to the `output` branch.
+- The README's contribution timeline, statistics cards, language chart, and streak card are served by external SVG services. Their availability and refresh intervals are controlled by those services.
 
-Only public repositories owned by the account are listed. Private repositories and repositories owned by other accounts or organizations are not included by this public-user endpoint.
+## Important limitations
 
-## 2. Contribution snake workflow
-
-The `contribution-snake.yml` workflow creates light and dark SVG contribution animations and publishes them to a branch named `output`.
-
-Run it manually from **Actions → Generate contribution snake → Run workflow**. It will also run daily.
-
-The README should reference the generated files using:
-
-```html
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anindya2007/anindya2007/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anindya2007/anindya2007/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/anindya2007/anindya2007/output/github-contribution-grid-snake.svg" />
-</picture>
-```
-
-## 3. GitHub permissions
-
-In the repository, open **Settings → Actions → General → Workflow permissions**. Select **Read and write permissions** if the repository currently restricts the workflow token to read-only access.
-
-The workflows use the built-in `GITHUB_TOKEN`; do not add a personal access token to the README or commit one to the repository.
-
-If your repository uses branch protection or rulesets that block GitHub Actions from pushing to the default branch, adjust those rules or update the README catalog manually.
-
-## 4. Push the files
-
-```bash
-git add README.md .github/workflows/contribution-snake.yml .github/workflows/update-repo.yml scripts/update-repositories.js SETUP.md
-git commit -m "Add GitHub profile automation"
-git push origin main
-```
-
-If your default branch is not `main`, replace `main` with its actual name.
+- The full repository grid covers public repositories owned by `anindya2007`, including public forks. It cannot reveal private repositories. Contributions to repositories owned by other people/organizations are reflected in GitHub's contribution overview, but are not automatically listed in the owned-repository grid.
+- GitHub profile READMEs do not run custom JavaScript, so they cannot host truly interactive charts, hover effects, or filters. Animated SVG/GIF cards work as embedded images; use a GitHub Pages portfolio for a fully interactive experience.
+- Technology badges link to their documentation, and generated repository preview cards link to the matching repository. Other decorative images may still open GitHub's image preview when clicked.
+- The profile photo currently loads from the GitHub avatar URL. Change the GitHub account avatar to a portrait if you want your face to appear here.
