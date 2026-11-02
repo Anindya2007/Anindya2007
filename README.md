@@ -124,32 +124,55 @@
 <!-- ALL_REPOSITORIES_END --><p align="center">
   <a href="https://github.com/anindya2007?tab=repositories"><img src="https://img.shields.io/badge/THERE'S_MORE-OPEN_MY_GITHUB-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Open all repositories on GitHub" /></a>
 </p><p align="center"><sub>Showcase refreshes daily. Original projects and forks are labelled separately, with language, stars, forks, last-push date, and optional live demo links.</sub></p><a id="leetcode"></a>
-🧠 LeetCode arena · Problem-solving progress
-<p align="center"><b>Not just writing code — sharpening the thinking behind it.</b></p>
-<p align="center"><sub>Live problem-solving stats, contest performance, and submission consistency. Each card opens my LeetCode profile.</sub></p><table width="100%" cellspacing="0" cellpadding="8">
+🟠 LEETCODE · THE PROBLEM-SOLVING ARENA
+<p align="center">
+  <a href="https://leetcode.com/ani2007">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=750&color=FFA116&center=true&vCenter=true&width=820&lines=Think.+Solve.+Learn.;One+problem+at+a+time.;Consistency+turns+practice+into+progress." alt="Animated LeetCode problem-solving motto" />
+  </a>
+</p><p align="center">
+  <a href="https://leetcode.com/ani2007"><img src="https://img.shields.io/badge/01-SOLVED_PROBLEMS-FFA116?style=for-the-badge&labelColor=151515" alt="Solved problem statistics" /></a>
+  <a href="https://leetcode.com/ani2007"><img src="https://img.shields.io/badge/02-CONTEST_PROGRESS-F59E0B?style=for-the-badge&labelColor=151515" alt="Contest progress" /></a>
+  <a href="https://leetcode.com/ani2007"><img src="https://img.shields.io/badge/03-SUBMISSION_ACTIVITY-22C55E?style=for-the-badge&labelColor=151515" alt="Submission activity" /></a>
+</p><p align="center"><i>A live snapshot of my LeetCode journey — problems solved, contest performance, and the consistency behind the practice.</i></p><table width="100%" cellspacing="12" cellpadding="10">
   <tr>
     <td width="50%" align="center" valign="top">
+      <p align="center">
+        <b>① · PROBLEM SOLVING</b><br />
+        <sub>Difficulty-wise progress</sub>
+      </p>
       <a href="https://leetcode.com/ani2007">
-        <img width="100%" src="https://leetcard.jacoblin.cool/ani2007?theme=dark&font=JetBrains+Mono&radius=12&border=0&animation=true" alt="Live LeetCode solved-problem statistics and difficulty breakdown for ani2007" />
+        <img width="100%" src="https://leetcard.jacoblin.cool/ani2007?theme=dark&font=JetBrains+Mono&radius=18&border=1&animation=true&width=520&height=220" alt="Live LeetCode solved count and easy, medium, hard breakdown for ani2007" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
+      <p align="center">
+        <b>② · CONTEST PERFORMANCE</b><br />
+        <sub>Rating and contest history</sub>
+      </p>
       <a href="https://leetcode.com/ani2007">
-        <img width="100%" src="https://leetcard.jacoblin.cool/ani2007?theme=dark&font=JetBrains+Mono&ext=contest&radius=12&border=0&animation=true" alt="LeetCode contest rating history for ani2007" />
+        <img width="100%" src="https://leetcard.jacoblin.cool/ani2007?theme=dark&font=JetBrains+Mono&ext=contest&hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count&radius=18&border=1&animation=true&width=520&height=220" alt="LeetCode contest rating and ranking history for ani2007" />
       </a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2" align="center" valign="top">
+      <p align="center">
+        <b>③ · CONSISTENCY MAP</b><br />
+        <sub>Every active day tells part of the story · last 52 weeks</sub>
+      </p>
       <a href="https://leetcode.com/ani2007">
-        <img width="96%" src="https://leetcard.jacoblin.cool/ani2007?theme=dark&font=JetBrains+Mono&ext=heatmap&radius=12&border=0&animation=true" alt="LeetCode submission activity heatmap for ani2007" />
+        <img width="100%" src="https://leetcard.jacoblin.cool/ani2007?theme=dark&font=JetBrains+Mono&ext=heatmap&radius=18&border=1&animation=true&width=1050&height=260" alt="LeetCode submission heatmap for ani2007 covering the last 52 weeks" />
       </a>
     </td>
   </tr>
 </table><p align="center">
-  <a href="https://leetcode.com/ani2007"><img src="https://img.shields.io/badge/OPEN-LEETCODE_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111" alt="Open LeetCode profile" /></a>
-  <a href="https://leetcode.com/ani2007"><img src="https://img.shields.io/badge/FOCUS-PROBLEM_SOLVING-1D4ED8?style=for-the-badge&labelColor=0B1220" alt="Problem solving" /></a>
-</p><a id="analytics"></a>
+  <a href="https://leetcode.com/ani2007">
+    <img src="https://img.shields.io/badge/OPEN_MY_PROFILE-ANI2007-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111" alt="Open ani2007 LeetCode profile" />
+  </a>
+  <a href="https://leetcode.com/ani2007/">
+    <img src="https://img.shields.io/badge/KEEP_GOING-DAILY_PRACTICE-22C55E?style=for-the-badge&labelColor=151515" alt="Keep practicing" />
+  </a>
+</p><p align="center"><sub>Stats and activity cards are fetched from LeetCard and may update on its cache cycle. Click any card to open my LeetCode profile.</sub></p><a id="analytics"></a>
 📊 The activity lab · GitHub stats, streaks & contributions
 <p align="center"><b>Two sides of the developer journey: problem-solving on LeetCode and building in public on GitHub.</b></p>🌊 Contribution timeline
 <p align="center">
