@@ -117,10 +117,29 @@
 <p align="center"><i>Repository metrics will appear after the first <b>Update repository showcase</b> workflow run.</i></p>
 <!-- REPOSITORY_PULSE_END -->✨ Project spotlight · Fresh builds and experiments
 <p align="center"><sub>Recently pushed original repositories are featured first. Each card is a mini project brief with its stack, activity, and a direct link to the source.</sub></p><!-- FEATURED_REPOSITORIES_START -->
-<p align="center"><i>Your project spotlight will appear here after the <b>Update repository catalog</b> workflow runs.</i></p>
+_3 public repositories · sorted by recently updated_
+
+| Repository | Description | Language | Stars · Forks | Updated |
+|---|---|---|---:|---|
+| [AP_sang_2026](https://github.com/Anindya2007/AP_sang_2026) | No description provided. | CSS | ★ 0 · 🍴 3 | 2026-10-27 |
+| [Gallery](https://github.com/Anindya2007/Gallery) | This is a gallery version of pinrest using react.js | JavaScript | ★ 0 · 🍴 0 | 2026-04-23 |
+| [Weather-tracker](https://github.com/Anindya2007/Weather-tracker) | This is a weather telling platform which takes city name and tell about its weather. | CSS | ★ 0 · 🍴 0 | 2026-04-23 |
 <!-- FEATURED_REPOSITORIES_END -->🗂️ The repository wall · Everything I've made public
 <p align="center"><sub>The full repository wall includes original builds and public forks. Cards are generated from GitHub metadata and link directly to the matching repository — no raw image tabs.</sub></p><!-- ALL_REPOSITORIES_START -->
-<p align="center"><i>Your repository wall will populate automatically after the first catalog workflow run.</i></p>
+_10 public repositories · sorted by recently updated_
+
+| Repository | Description | Language | Stars · Forks | Updated |
+|---|---|---|---:|---|
+| [Ap_Youtube_clone_Practice](https://github.com/Anindya2007/Ap_Youtube_clone_Practice) _(fork)_ | This is a project of our AP subject to check what we have learnt and about the practical implication of class concepts. | JavaScript | ★ 0 · 🍴 0 | 2026-11-01 |
+| [sangam](https://github.com/Anindya2007/sangam) _(fork)_ | No description provided. | JavaScript | ★ 0 · 🍴 0 | 2026-10-31 |
+| [AP_sang_2026](https://github.com/Anindya2007/AP_sang_2026) | No description provided. | CSS | ★ 0 · 🍴 3 | 2026-10-27 |
+| [Prisma_Queries-practice](https://github.com/Anindya2007/Prisma_Queries-practice) _(fork)_ | This is only for the practice purpose of prisma ORM | JavaScript | ★ 0 · 🍴 0 | 2026-10-27 |
+| [Furnix-SSoC26](https://github.com/Anindya2007/Furnix-SSoC26) _(fork)_ | Furnix is a responsive web-based platform designed to showcase and manage modern furniture and interior solutions, combining clean UI, user- | HTML | ★ 0 · 🍴 0 | 2026-09-05 |
+| [QuillSync](https://github.com/Anindya2007/QuillSync) _(fork)_ | No description provided. | JavaScript | ★ 1 · 🍴 0 | 2026-07-07 |
+| [OpenPlayground](https://github.com/Anindya2007/OpenPlayground) _(fork)_ | A community-driven platform where developers showcase projects as interactive cards and share what they build with the world. | JavaScript | ★ 1 · 🍴 0 | 2026-06-12 |
+| [prera-website](https://github.com/Anindya2007/prera-website) _(fork)_ | PRERA – Tech Event & Brand Collaboration Platform | JavaScript | ★ 1 · 🍴 0 | 2026-05-28 |
+| [Gallery](https://github.com/Anindya2007/Gallery) | This is a gallery version of pinrest using react.js | JavaScript | ★ 0 · 🍴 0 | 2026-04-23 |
+| [Weather-tracker](https://github.com/Anindya2007/Weather-tracker) | This is a weather telling platform which takes city name and tell about its weather. | CSS | ★ 0 · 🍴 0 | 2026-04-23 |
 <!-- ALL_REPOSITORIES_END --><p align="center">
   <a href="https://github.com/anindya2007?tab=repositories"><img src="https://img.shields.io/badge/THERE'S_MORE-OPEN_MY_GITHUB-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Open all repositories on GitHub" /></a>
 </p><p align="center"><sub>Showcase refreshes daily. Original projects and forks are labelled separately, with language, stars, forks, last-push date, and optional live demo links.</sub></p><a id="leetcode"></a>
