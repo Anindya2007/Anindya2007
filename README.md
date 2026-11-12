@@ -128,10 +128,11 @@ _5 public repositories · sorted by recently updated_
 | [Weather-tracker](https://github.com/Anindya2007/Weather-tracker) | This is a weather telling platform which takes city name and tell about its weather. | CSS | ★ 0 · 🍴 0 | 2026-04-23 |
 <!-- FEATURED_REPOSITORIES_END -->🗂️ The repository wall · Everything I've made public
 <p align="center"><sub>The full repository wall includes original builds and public forks. Cards are generated from GitHub metadata and link directly to the matching repository — no raw image tabs.</sub></p><!-- ALL_REPOSITORIES_START -->
-_12 public repositories · sorted by recently updated_
+_13 public repositories · sorted by recently updated_
 
 | Repository | Description | Language | Stars · Forks | Updated |
 |---|---|---|---:|---|
+| [TalentX](https://github.com/Anindya2007/TalentX) _(fork)_ | No description provided. | — | ★ 0 · 🍴 0 | 2026-11-11 |
 | [PaisaFlow](https://github.com/Anindya2007/PaisaFlow) | No description provided. | TypeScript | ★ 0 · 🍴 0 | 2026-11-09 |
 | [Namoh](https://github.com/Anindya2007/Namoh) | No description provided. | TypeScript | ★ 0 · 🍴 0 | 2026-11-04 |
 | [Ap_Youtube_clone_Practice](https://github.com/Anindya2007/Ap_Youtube_clone_Practice) _(fork)_ | This is a project of our AP subject to check what we have learnt and about the practical implication of class concepts. | JavaScript | ★ 0 · 🍴 0 | 2026-11-01 |
