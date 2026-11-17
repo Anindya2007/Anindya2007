@@ -128,10 +128,11 @@ _5 public repositories · sorted by recently updated_
 | [Weather-tracker](https://github.com/Anindya2007/Weather-tracker) | This is a weather telling platform which takes city name and tell about its weather. | CSS | ★ 0 · 🍴 0 | 2026-04-23 |
 <!-- FEATURED_REPOSITORIES_END -->🗂️ The repository wall · Everything I've made public
 <p align="center"><sub>The full repository wall includes original builds and public forks. Cards are generated from GitHub metadata and link directly to the matching repository — no raw image tabs.</sub></p><!-- ALL_REPOSITORIES_START -->
-_13 public repositories · sorted by recently updated_
+_14 public repositories · sorted by recently updated_
 
 | Repository | Description | Language | Stars · Forks | Updated |
 |---|---|---|---:|---|
+| [DE_Project_2026](https://github.com/Anindya2007/DE_Project_2026) _(fork)_ | No description provided. | Python | ★ 0 · 🍴 0 | 2026-11-16 |
 | [PaisaFlow](https://github.com/Anindya2007/PaisaFlow) | No description provided. | TypeScript | ★ 0 · 🍴 0 | 2026-11-12 |
 | [Rydora_AP_2026](https://github.com/Anindya2007/Rydora_AP_2026) | No description provided. | CSS | ★ 0 · 🍴 3 | 2026-11-12 |
 | [TalentX](https://github.com/Anindya2007/TalentX) _(fork)_ | No description provided. | — | ★ 0 · 🍴 0 | 2026-11-11 |
