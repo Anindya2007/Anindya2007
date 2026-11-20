@@ -121,7 +121,7 @@ _5 public repositories · sorted by recently updated_
 
 | Repository | Description | Language | Stars · Forks | Updated |
 |---|---|---|---:|---|
-| [Rydora_AP_2026](https://github.com/Anindya2007/Rydora_AP_2026) | No description provided. | PLpgSQL | ★ 0 · 🍴 3 | 2026-11-18 |
+| [Rydora_AP_2026](https://github.com/Anindya2007/Rydora_AP_2026) | No description provided. | TypeScript | ★ 0 · 🍴 3 | 2026-11-19 |
 | [PaisaFlow](https://github.com/Anindya2007/PaisaFlow) | No description provided. | TypeScript | ★ 0 · 🍴 0 | 2026-11-12 |
 | [Namoh](https://github.com/Anindya2007/Namoh) | No description provided. | TypeScript | ★ 0 · 🍴 0 | 2026-11-04 |
 | [Gallery](https://github.com/Anindya2007/Gallery) | This is a gallery version of pinrest using react.js | JavaScript | ★ 0 · 🍴 0 | 2026-04-23 |
@@ -132,8 +132,8 @@ _14 public repositories · sorted by recently updated_
 
 | Repository | Description | Language | Stars · Forks | Updated |
 |---|---|---|---:|---|
+| [Rydora_AP_2026](https://github.com/Anindya2007/Rydora_AP_2026) | No description provided. | TypeScript | ★ 0 · 🍴 3 | 2026-11-19 |
 | [DE_Project_2026](https://github.com/Anindya2007/DE_Project_2026) _(fork)_ | No description provided. | PLpgSQL | ★ 0 · 🍴 0 | 2026-11-18 |
-| [Rydora_AP_2026](https://github.com/Anindya2007/Rydora_AP_2026) | No description provided. | PLpgSQL | ★ 0 · 🍴 3 | 2026-11-18 |
 | [PaisaFlow](https://github.com/Anindya2007/PaisaFlow) | No description provided. | TypeScript | ★ 0 · 🍴 0 | 2026-11-12 |
 | [TalentX](https://github.com/Anindya2007/TalentX) _(fork)_ | No description provided. | — | ★ 0 · 🍴 0 | 2026-11-11 |
 | [Namoh](https://github.com/Anindya2007/Namoh) | No description provided. | TypeScript | ★ 0 · 🍴 0 | 2026-11-04 |
